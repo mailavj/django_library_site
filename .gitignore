@@ -87,3 +87,11 @@ local_settings.py
 
 .env
 db.sqlite3
+
+## Pycharm ##
+.idea/
+.idea/*.*
+
+## Django App ##
+./locallibrary/catalog/migrations/
+./locallibrary/catalog/migrations/*.*
